@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Configuracion"
+        android:id="@+id/nav_config"
+        android:icon="@drawable/ic_brightness_low_black_24dp"></item>
+    <item
+        android:title="Informacion"
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_info_black_24dp"></item>
+    <item
+        android:title="Sueño"
+        android:id="@+id/nav_dream"></item>
+    <item
+        android:title="Pesadilla"
+        android:id="@+id/nav_pesadilla"></item>
+
+</menu>

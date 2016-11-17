@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SaveYourDreams</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="NombreApp">SaveYoursDreams</string>
+    <string name="EmailApp">SaveYoursDreams@gmail.com</string>
+
+    <string name="textLogin_registro">¿Aún no tienes tu cuenta?,Registrate aquí</string>
+    <string name="textregistro_login">¿Ya tienes creda tu cuenta? Logueate aquí</string>
+
+    <string name="EditEmail">Email</string>
+    <string name="EditPass">Contraseña</string>
+
+    <string name="ButtonLogin">Login</string>
+    <string name="ButtonGoogle">Google</string>
+    <string name="ButtonFacebook">Facebook</string>
+    <string name="ButtonRegistro">Registrarse</string>
+
+
+    <string name="EditTitulo">Titulo :</string>
+    <string name="EditDescripcion">Descripción :</string>
+    <string name="TextTime">Hora :</string>
+
+
+</resources>
